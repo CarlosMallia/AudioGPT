@@ -10,7 +10,7 @@ pip install -r requirements.txt
 bash download.sh
 
 # prepare your private openAI private key
-export OPENAI_API_KEY={Your_Private_Openai_Key}
+export OPENAI_API_KEY={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}
 
 # Start AudioGPT !
 python audio-chatgpt.py
